@@ -1,4 +1,8 @@
 {
-  "ad_gift_first_show" : 6,
-  "ad_gift_interval" : 60
+  "ad_gift_first_show" : 6, // 礼物首次出现
+  "ad_gift_interval" : 60, // 礼物出现间隔
+  "ad_gift_show_duration": 10, // 礼物出现的时长
+  "free_trial_duration": 30, // 限时体验pro的时长
+  "enable_gift": true, // 开启礼物
+  "enable_trial_button": true, // 开启设置里的免费试用按钮
 }
