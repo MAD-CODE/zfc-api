@@ -3,11 +3,11 @@
     "min_version": 1,
     "version_name":"3.0.1",
     "update_tips":[
-        {"language": "zh", "tip":"更新内容：\n1. 优化云同步流程，修复不稳定问题\n2. 减小安装包体积\n3. 优化背景图沉浸显示效果\n4. 提升流畅度"},
-        {"language": "en", "tip":"What's New?"},
-        {"language": "ru", "tip":"Что нового?"},
-        {"language": "de", "tip":"Was ist neu?"},
-        {"language": "it", "tip":"Cosa c'è di nuovo?"}
+        {"lang": "zh", "tip":"更新内容：\n1. 优化云同步流程，修复不稳定问题\n2. 减小安装包体积\n3. 优化背景图沉浸显示效果\n4. 提升流畅度"},
+        {"lang": "en", "tip":"What's New?"},
+        {"lang": "ru", "tip":"Что нового?"},
+        {"lang": "de", "tip":"Was ist neu?"},
+        {"lang": "it", "tip":"Cosa c'è di nuovo?"}
     ],
     "force_update":false,
     "show_cancel": true,
