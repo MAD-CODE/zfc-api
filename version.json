@@ -1,13 +1,13 @@
 {
     "version": 49,
     "min_version": 1,
-    "version_name":"3.0.1",
+    "version_name":"2.2.3",
     "update_tips":[
-        {"lang": "zh", "tip":"更新内容：\n1. 优化云同步流程，修复不稳定问题\n2. 减小安装包体积\n3. 优化背景图沉浸显示效果\n4. 提升流畅度"},
-        {"lang": "en", "tip":"What's New?"},
-        {"lang": "ru", "tip":"Что нового?"},
-        {"lang": "de", "tip":"Was ist neu?"},
-        {"lang": "it", "tip":"Cosa c'è di nuovo?"}
+        {"lang": "zh", "tip":"更新内容：\n1. 新增对新版本的检测\n2. 新增限时体验高级版本"},
+        {"lang": "en", "tip":"What's New?\n1. Add detecting new version\n2. Add reward for experiencing the premium features"},
+        {"lang": "ru", "tip":"Что нового?\n1. Добавить обнаружение новой версии\n2. Добавить вознаграждение за использование премиум-функций"},
+        {"lang": "de", "tip":"Was ist neu?\n1. Hinzufügen der Erkennung einer neuen Version\n2. Belohnung für das Erleben der Premium-Funktionen hinzugefügt"},
+        {"lang": "it", "tip":"Cosa c'è di nuovo?\n1. Aggiungere il rilevamento della nuova versione\n2. Aggiungere una ricompensa per aver sperimentato le caratteristiche premium"}
     ],
     "force_update":false,
     "show_cancel": true,
