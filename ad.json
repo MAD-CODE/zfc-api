@@ -1,5 +1,5 @@
 {
-  "ad_gift_first_show" : 60,
+  "ad_gift_first_show" : 30,
   "ad_gift_interval" : 3600,
   "ad_gift_show_duration": 600,
   "free_trial_duration": 30,
