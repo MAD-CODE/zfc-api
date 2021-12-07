@@ -1,13 +1,17 @@
 {
-    "version": 49,
+    "version": 50,
     "min_version": 1,
-    "version_name":"2.2.3",
+    "version_name":"2.2.4",
     "update_tips":[
-        {"lang": "zh", "tip":"更新内容：\n1. 新增对新版本的检测\n2. 新增限时体验高级版本"},
-        {"lang": "en", "tip":"What's New?\n1. Add detecting new version\n2. Add reward for experiencing the premium features"},
-        {"lang": "ru", "tip":"Что нового?\n1. Добавить обнаружение новой версии\n2. Добавить вознаграждение за использование премиум-функций"},
-        {"lang": "de", "tip":"Was ist neu?\n1. Hinzufügen der Erkennung einer neuen Version\n2. Belohnung für das Erleben der Premium-Funktionen hinzugefügt"},
-        {"lang": "it", "tip":"Cosa c'è di nuovo?\n1. Aggiungere il rilevamento della nuova versione\n2. Aggiungere una ricompensa per aver sperimentato le caratteristiche premium"}
+        {"lang": "zh", "tip":"更新内容：\n增加马来语、韩语和繁体中文的本地化"},
+        {"lang": "en", "tip":"What's New?\nadd localizations for Malay, Korean and traditional Chinese"},
+        {"lang": "ru", "tip":"Что нового?\nдобавить локализации для малайского, корейского и традиционного китайского языков"},
+        {"lang": "de", "tip":"Was ist neu?\nLokalisierungen für Malaiisch, Koreanisch und traditionelles Chinesisch hinzufügen"},
+        {"lang": "it", "tip":"Cosa c'è di nuovo?\naggiungere localizzazioni per malese, coreano e cinese tradizionale"},
+        {"lang": "ko", "tip":"새로운 기능\n말레이어, 한국어 및 중국어 번체의 현지화 확대"},
+        {"lang": "ms", "tip":"Apa yang baru\nMeningkatkan lokalisasi Melayu, Korea dan Cina Tradisional"},
+        {"lang": "zh-TW", "tip":"更新內容：\n增加馬來語、韓語和繁體中文的本地化"},
+        {"lang": "zh-HK", "tip":"更新內容：\n增加馬來語、韓語和繁體中文的本地化"}
     ],
     "force_update":false,
     "show_cancel": true,
