@@ -6,5 +6,5 @@
   "enable_gift": true,
   "enable_trial_button": true,
   "enable_gift_in_pomodoro": true,
-  "finishFocusShowType": "interstitial"
+  "finishFocusShowType": ""
 }
